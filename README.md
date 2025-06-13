@@ -20,3 +20,4 @@ Please share your thoughts
         int func(int a, int b);  compared to int func(int a, int b){...
                              /\                                    /\     At this point the statement is either a function declaration or definition. Before this it's ambiguous
                              
+13/06 - Been busy with work. Its a MSBASIC compiler now :)  C has too much stuff. Please look in BatPU_BASIC for the updates on that
